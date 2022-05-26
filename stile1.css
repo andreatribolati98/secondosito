@@ -1,0 +1,88 @@
+body {
+    background-color: lightblue;
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 15px;
+    color: black;
+    
+}
+
+.menu_centrale {
+    background-color: rgb(207, 207, 207);
+    border-style: groove;
+    border-radius: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 1200px;
+    
+}
+
+li {
+    display: inline;
+    padding: 30px;
+    border-style: groove;
+    border-color: blue;
+    border-width: 1px;
+    background-color: wheat;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 10px;
+    padding-bottom: 10px; 
+    border-radius: 30px;   
+    
+}
+
+.sinistra {
+    background-color: rgb(207, 207, 207);
+    display: inline;
+    padding-left: 10px;
+    padding-right: 20px;
+    height: 1000px;
+    width: 150px;
+    float: left;
+    border-style: groove;
+
+}
+button {
+    background-color: greenyellow;
+    padding-right: 20px;
+    padding-left: 20px;
+    
+    
+}
+
+.centro {
+    
+    width: 800px;
+    height: 1000px;
+    border-style: groove;
+    background-color: rgb(207, 207, 207);
+}
+
+.destra {
+    background-color: rgb(207, 207, 207);
+    display: inline;
+    border-style: groove;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 1000px;
+    width: 200px;
+    float: right;
+
+}
+.riquadro_social {
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 20px;
+    background-color: whitesmoke;
+    border-style: groove;
+}
+
+td {
+    background-color: white;
+    color: red;
+    padding: 5px;
+    border-style: groove;
+    
+}
